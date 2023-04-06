@@ -84,7 +84,14 @@ Function is quite simple: I store book's name and pagecount into separate tempor
 
 ## Assignment #2: Command List, with a class
 
-Another recurring assignment, where the mission is to give orders to a robot, and print it's final location.
+Another recurring assignment, where the mission is to give orders to a robot, and print it's final location. As with previous assignment, I selected the latest version for this.
+
+### The Assignment
+
+Let us return to the robot in assignment 4.
+There we had the x and y variables as globals (global variables). However, what if we want to have multiple robots?
+Create a Robot class with x and y properties. Inside the class, also create a handleCommandList function that takes a command list (string) as a parameter and handles it exactly like in task 3, except that it must affect the x and y coordinates of the Robot class instance rather than global variables.
+Create an instance of the class and run the "NNEESSWWCNNEEENNNCEESSSWNNNECEESWWNNNEEEBENNNEEE" command list through the robot. Print the robot afterwards and verify its coordinates to be x === 8, y === 7 to make sure your class works correctly.
 
 ### Initial thoughts
 
