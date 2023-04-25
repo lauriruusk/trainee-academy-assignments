@@ -30,7 +30,7 @@ Add the following inside the `<head>` of your `index.html` which is found in the
 ```  
 When you have React Bootstrap up and running replicate this familiar UI from the previous assignments. You don't need to generate the list from an array this time. It is enough to hard code it. You probably want to check out [grid](https://react-bootstrap.github.io/layout/grid/) and [forms](https://react-bootstrap.github.io/forms/overview/) from the React Bootstrap documentation. 
 
-![book-list.png](https://buuttilab.com/education/trainee-academy-joensuu/assignments/-/blob/master/React/Assignment%20Set%201/book-list.png)
+![book-list.png](https://github.com/lauriruusk/trainee-academy-assignments/blob/main/book-list.png)
 
 Note that you can replace many of the familiar classes of bootstrap with React Bootstrap -components. For example:
 
